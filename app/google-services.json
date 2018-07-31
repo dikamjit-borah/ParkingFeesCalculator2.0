@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1064659264066",
+    "firebase_url": "https://parkingfeescalculator-dfa5c.firebaseio.com",
+    "project_id": "parkingfeescalculator-dfa5c",
+    "storage_bucket": "parkingfeescalculator-dfa5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064659264066:android:2c137cc0ae440397",
+        "android_client_info": {
+          "package_name": "com.dikamjitborah.hobarb.parkingfeescalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064659264066-cb1anr6qbhfa4998mcrg744knsvpd008.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dikamjitborah.hobarb.parkingfeescalculator",
+            "certificate_hash": "25bb6c178054d4482292a10476f165ccda1be4bd"
+          }
+        },
+        {
+          "client_id": "1064659264066-ggnda6bu824pbn5rlfeb1b7g5up3vqea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9oDt4pF63bk7zkEdFCcxSf2FChDKXgFU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064659264066-ggnda6bu824pbn5rlfeb1b7g5up3vqea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
